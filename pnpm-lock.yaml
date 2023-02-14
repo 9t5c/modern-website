@@ -3,12 +3,10 @@ lockfileVersion: 5.4
 specifiers:
   '@motionone/vue': ^10.15.5
   '@nuxtjs/tailwindcss': ^6.4.0
-  motion: ^10.15.5
   nuxt: ^3.2.0
 
 dependencies:
   '@motionone/vue': 10.15.5
-  motion: 10.15.5
 
 devDependencies:
   '@nuxtjs/tailwindcss': 6.4.0
@@ -873,13 +871,6 @@ packages:
     dependencies:
       '@motionone/types': 10.15.1
       '@motionone/utils': 10.15.1
-      tslib: 2.5.0
-    dev: false
-
-  /@motionone/svelte/10.15.5:
-    resolution: {integrity: sha512-Xyxtgp7BlVnSBwcoFmXGHUVnpNktzeXsEifu2NJJWc7VGuxutDsBZxNdz80qvpLIC5MeBa1wh7GGegZzTm1msg==}
-    dependencies:
-      '@motionone/dom': 10.15.5
       tslib: 2.5.0
     dev: false
 
@@ -3696,17 +3687,6 @@ packages:
       pkg-types: 1.0.1
       ufo: 1.0.1
     dev: true
-
-  /motion/10.15.5:
-    resolution: {integrity: sha512-ejP6KioN4pigTGxL93APzOnvtLklParL59UQB2T3HWXQBxFcIp5/7YXFmkgiA6pNKKzjvnLhnonRBN5iSFMnNw==}
-    dependencies:
-      '@motionone/animation': 10.15.1
-      '@motionone/dom': 10.15.5
-      '@motionone/svelte': 10.15.5
-      '@motionone/types': 10.15.1
-      '@motionone/utils': 10.15.1
-      '@motionone/vue': 10.15.5
-    dev: false
 
   /mri/1.2.0:
     resolution: {integrity: sha512-tzzskb3bG8LvYGFF/mDTpq3jpI6Q9wc3LEmBaghu+DdCssd1FakN7Bc0hVNmEyGq1bq3RgfkCb3cmQLpNPOroA==}

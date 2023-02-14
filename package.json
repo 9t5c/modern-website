@@ -12,7 +12,6 @@
     "nuxt": "^3.2.0"
   },
   "dependencies": {
-    "@motionone/vue": "^10.15.5",
-    "motion": "^10.15.5"
+    "@motionone/vue": "^10.15.5"
   }
 }
